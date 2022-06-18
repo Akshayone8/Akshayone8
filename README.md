@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*jw2vUeVAbmu8KNaByRWIGA.gif)]()
+<!-- [![MasterHead](https://miro.medium.com/max/1400/1*jw2vUeVAbmu8KNaByRWIGA.gif)]()  -->
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 Portfolio Website [https://akshayone8.github.io/Akshay.github.io/](https://akshayone8.github.io/Akshay.github.io/)
+ 👨‍💻 Portfolio Website [https://akshayone8.github.io/Akshay.github.io/](https://akshayone8.github.io/Akshay.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
