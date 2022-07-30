@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://miro.medium.com/max/1400/1*jw2vUeVAbmu8KNaByRWIGA.gif)]()  -->
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">Frontend Developer</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayone8&label=Profile%20views&color=0e75b6&style=flat" alt="akshayone8" /> </p>
 
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayone8&show_icons=true&locale=en" alt="akshayone8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayone8&" alt="akshayone8" /></p>
+
